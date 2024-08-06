@@ -18,12 +18,12 @@ This project includes automated test scripts for verifying the login functionali
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repository-url.git
+    git clone https://github.com/SSeanphai/assignment_QA.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd project-root
+    cd assignment_QA
     ```
 
 3. Install the required packages:
@@ -37,4 +37,4 @@ This project includes automated test scripts for verifying the login functionali
 
 To run the test cases, use the following command:
 ```bash
-robot tests/login_tests.robot
+robot test/testcase/login_testcase/Log_in.robot
